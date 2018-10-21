@@ -2,12 +2,12 @@ body {
     background-image: url("http://1.bp.blogspot.com/-VdULbSGJ3I8/UBuq3kI0ChI/AAAAAAAAAxo/4m0VqJvsBFY/s1600/web-page-backgrounds-1.jpg");
 }
 h1 {
-    color: blue;
+    color: red;
     font-size:300%;
     text-align:center;
 }
 p {
-    color: red;
+    color: black;
     font-size:160%;
     text-align:center;
 }
