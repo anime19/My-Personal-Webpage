@@ -1,4 +1,4 @@
-body {
+ body {
     background-image: url("https://www.stcqa.com/wp-content/uploads/2018/03/Website-Design-Background.jpg");
     height:100%;
 width:100%;
@@ -9,7 +9,7 @@ background-attachment:fixed;
 
 }
 h1 {
-    color: red;
+    color: green;
     font-size:300%;
     text-align:center;
 }
