@@ -1,0 +1,17 @@
+body {
+    background-image: url("https://www.stcqa.com/wp-content/uploads/2018/03/Website-Design-Background.jpg");
+}
+h1 {
+    color: red;
+    font-size:300%;
+    text-align:center;
+}
+p {
+    color: black;
+    font-size:160%;
+    text-align:center;
+}
+ul
+{
+  font-size:140%;
+}
