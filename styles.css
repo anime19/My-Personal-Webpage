@@ -7,9 +7,15 @@ background-repeat:repeat;
 background-size:cover; */
 
 }
-element.style {
+/* element.style {
     height: 22px;
+} */
+
+.navbar navbar-default{
+ height:20px;
 }
+ 
+ 
 h1 {
     color: lightgray;
     font-size:300%;
